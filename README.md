@@ -12,9 +12,11 @@ Yamaha: https://yamahamusical.co/
 
 Gear4Music: https://www.gear4music.com/
 Tienda profesional en el reino Unido UK, con envío internacional, venta de instrumentos de primera categoría para los músicos más exigentes.
-Sus acciones desde agosto de 2019 a la fecha subieron de 197,5 a 900 (+357%).
+Sus acciones desde agosto de 2019 a la fecha subieron más de un 350%.
 
-![image](https://user-images.githubusercontent.com/88996173/131013915-2fe6e546-8370-4bfb-af3c-1e8b01b2e766.png)
+![image](https://user-images.githubusercontent.com/88996173/131014686-3c19e41b-f7f4-4c59-9fc5-4f80f9e42ad4.png)
+
+
 fuente: https://marketingdigital.blog/ecommerce/las-mejores-tienda-instrumentos-musicales-online/
 
 
