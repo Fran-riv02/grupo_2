@@ -26,4 +26,9 @@ Sus acciones desde agosto de 2019 a la fecha subieron más de un 350%.
 
 fuente: https://marketingdigital.blog/ecommerce/las-mejores-tienda-instrumentos-musicales-online/
 
+5) Sweetwater: https://www.sweetwater.com/
+
+Es uno de los vendedores mas grandes del mundo en el rubro. De este sitio nos pareció muy buena la simplicidad. Tiene la forma de navegación clásica, al estilo de Mercado Libre.
+A la vez, posee una serie de botones muy limpios, que te permiten buscar el producto por categoría.
+
 
