@@ -1,7 +1,3 @@
-
-
-//En cosntrucción!!
-
 🎸🎻Referencia de sitios 🎹🎺
 
 1) Foxcomm: https://www.foxcommtech.com/arg/
