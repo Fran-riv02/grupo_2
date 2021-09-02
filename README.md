@@ -9,7 +9,7 @@ Hernán Buxmann
 
 Nicolas Enrique
 
-Esteban Ferreccio: Soy Ingeniero Electromecánico 📈 , y mi camino profesional se desarrolló principalmente en el área de Compras, Abastecimiento y Logística. Durante este camino pude crecer como persona y como profestional, pero los últimos años empecé a sentir un deseo de reinventarme y empezar a construir un nuevo camino en la industria digital, por eso, a los 39 años y dos hij@s 👫, decidí hacer este curso. y aquí estamos!!! Con la sensación de haber tomado el camino correcto, ya que me gusta mucho lo que venimos viendo y puedo ver todo el potencial 🚀 que tienen los conocimientos que estamos adquiriendo.
+Esteban Ferreccio: Soy Ingeniero Electromecánico 📈 , y mi camino profesional se desarrolló principalmente en el área de Compras, Abastecimiento y Logística. Durante este camino pude crecer como persona y como profestional, pero los últimos años empecé a sentir un deseo de reinventarme y empezar a construir un nuevo camino en la industria digital, decidí hacer este curso. y aquí estamos!!! Con la sensación de haber tomado el camino correcto, ya que me gusta mucho lo que venimos viendo y puedo ver todo el potencial 🚀 que tienen los conocimientos que estamos adquiriendo.
 
 Francisco Rivero
 
