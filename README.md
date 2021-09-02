@@ -1,10 +1,15 @@
+(NOMBRE DEL PROYECTO)
+
+Nuestro proyecyo consiste en un sitio de ecommerce de instrumentos musicales y accesorios. Nuestro público objetivo apunta a aficionados y profesionales de la música. Creemos que este público es bastante heterogéneo en cuanto rango etareo, estilo y cultura, por lo cual una de las premisas de nuestra idea, es que nuestro sitio sea amigable, limpio en cuento a la visualización de los productos. 
+Inentaremos captar la atención de nuestro público, mediante una landig page actractiva desde  lo visual, con banners potentes, ofertas y contenido específico de la industria, pero también procuraremos una visualización y acceso rápido a la tienda de productos.
+
 Miembros del Equipo //Agregar breve escripción de cada uno.
 
 Hernán Buxmann
 
 Nicolas Enrique
 
-Esteban Ferreccio
+Esteban Ferreccio: Soy Ingeniero Electromecánico 📈 , y mi camino profesional se desarrolló principalmente en el área de Compras, Abastecimiento y Logística. Durante este camino pude crecer como persona y como profestional, pero los últimos años empecé a sentir un deseo de reinventarme y empezar a construir un nuevo camino en la industria digital, por eso, a los 39 años y dos hij@s 👫, decidí hacer este curso. y aquí estamos!!! Con la sensación de haber tomado el camino correcto, ya que me gusta mucho lo que venimos viendo y puedo ver todo el potencial 🚀 que tienen los conocimientos que estamos adquiriendo.
 
 Francisco Rivero
 
@@ -33,4 +38,13 @@ Sus acciones desde agosto de 2019 a la fecha subieron más de un 350%.
 Es uno de los vendedores mas grandes del mundo en el rubro. De este sitio nos pareció muy buena la simplicidad. Tiene la forma de navegación clásica, al estilo de Mercado Libre.
 A la vez, posee una serie de botones muy limpios, que te permiten buscar el producto por categoría.
 
+Wireframes del Sitio
+
+Home:
+
+Detalle de Producto: https://wireframe.cc/pro/pp/40a18f8fc467582
+
+Formulario de Registro:
+
+Formulario de Login: https://wireframe.cc/3nzEJ3 
 
