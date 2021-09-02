@@ -40,7 +40,7 @@ A la vez, posee una serie de botones muy limpios, que te permiten buscar el prod
 
 Wireframes del Sitio
 
-Home:
+Home: https://wireframe.cc/8TzCG4
 
 Detalle de Producto: https://wireframe.cc/pro/pp/40a18f8fc467582
 
