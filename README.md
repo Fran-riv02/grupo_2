@@ -46,7 +46,7 @@ Detalle de Producto: https://wireframe.cc/pro/pp/40a18f8fc467582
 
 Carrito de Compras:
 
-Formulario de Registro:
+Formulario de Registro: https://wireframe.cc/3nzEJ3 
 
-Formulario de Login: https://wireframe.cc/3nzEJ3 
+Formulario de Login: 
 
