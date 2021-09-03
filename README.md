@@ -1,4 +1,4 @@
-(NOMBRE DEL PROYECTO)
+Proyecto "Dr. Music"
 
 Nuestro proyecyo consiste en un sitio de ecommerce de instrumentos musicales y accesorios. Nuestro público objetivo apunta a aficionados y profesionales de la música. Creemos que este público es bastante heterogéneo en cuanto rango etareo, estilo y cultura, por lo cual una de las premisas de nuestra idea, es que nuestro sitio sea amigable, limpio en cuento a la visualización de los productos. 
 Inentaremos captar la atención de nuestro público, mediante una landig page actractiva desde  lo visual, con banners potentes, ofertas y contenido específico de la industria, pero también procuraremos una visualización y acceso rápido a la tienda de productos.
