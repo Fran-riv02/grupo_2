@@ -5,7 +5,7 @@ Inentaremos captar la atención de nuestro público, mediante una landig page ac
 
 Miembros del Equipo //Agregar breve escripción de cada uno.
 
-Hernán Buxmann
+Hernán Buxmann: Ingeniero en Sistemas, con algunos años de experiencia en la mochila, con un foco en bancos en los últimos 12 años. Actualmente en Fintech bancaria y en breve cambiando a una startup a ver que pasa... Fuí programador a tiempo completo algunos años atrás y mi realidad hoy me lleva a liderar equipos de desarrollo por lo que Full Stack-Digital House fue la elección natural para un mejor entendimiento general con el equipo. 
 
 Nicolas Enrique: Soy Lic. en Comercio Internacional y si bien trabajé en dicha área por varios años, mi pasión es el idioma japonés y Japón 🇯🇵. Actualmente trabajo para una empresa de e-commerce llamada ZenMarket con base en tal país, dando soporte a los clientes hispanohablantes. También enseño español a extranjeros de manera part time. Siempre tuve interés en el código, así que aquí me encuentro dando lo mejor de mi mismo junto a estos grandes compañeros!
 
