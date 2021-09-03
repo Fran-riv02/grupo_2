@@ -44,7 +44,7 @@ Home: https://wireframe.cc/8TzCG4
 
 Detalle de Producto: https://wireframe.cc/pro/pp/40a18f8fc467582
 
-Carrito de Compras:
+Carrito de Compras: https://wireframe.cc/KUfw
 
 Formulario de Registro: https://wireframe.cc/3nzEJ3 
 
