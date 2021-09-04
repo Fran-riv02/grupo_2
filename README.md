@@ -3,7 +3,7 @@ Proyecto "Dr. Music"
 Nuestro proyecyo consiste en un sitio de ecommerce de instrumentos musicales y accesorios. Nuestro público objetivo apunta a aficionados y profesionales de la música. Creemos que este público es bastante heterogéneo en cuanto rango etareo, estilo y cultura, por lo cual una de las premisas de nuestra idea, es que nuestro sitio sea amigable, limpio en cuento a la visualización de los productos. 
 Inentaremos captar la atención de nuestro público, mediante una landig page actractiva desde  lo visual, con banners potentes, ofertas y contenido específico de la industria, pero también procuraremos una visualización y acceso rápido a la tienda de productos.
 
-Miembros del Equipo //Agregar breve escripción de cada uno.
+Miembros del Equipo
 
 Hernán Buxmann: Soy Ingeniero en Sistemas, con algunos años de experiencia en la mochila, con un foco en bancos en los últimos 12 años. Actualmente en Fintech bancaria y en breve cambiando a una startup a ver que pasa... Fuí programador a tiempo completo algunos años atrás y mi realidad hoy me lleva a liderar equipos de desarrollo por lo que Full Stack-Digital House fue la elección natural para un mejor entendimiento general con el equipo. Por último y no menos importante, el aprendisaje por sí solo es motivo suficiente para tomar este tipo de cursos, aparte tuve la fortuna de encontrar en este equipo de trabajo a grandes colegas con los que seguramente contruiremos grandes cosas juntos!
 
