@@ -50,6 +50,7 @@ Formulario de Registro: https://wireframe.cc/3nzEJ3
 
 Formulario de Login: https://wireframe.cc/puGomN
 
-![image](https://user-images.githubusercontent.com/88996173/132092396-73638a5f-00d9-4b9e-b306-95ea8ac443c6.png)
+![image](https://user-images.githubusercontent.com/88996173/132124073-b88aec67-433c-4501-b3e9-293f74aa2716.png)
+
 
 
