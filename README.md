@@ -9,12 +9,12 @@ Hernán Buxmann: Soy Ingeniero en Sistemas, con algunos años de experiencia en 
 
 Nicolas Enrique: Soy Lic. en Comercio Internacional y si bien trabajé en dicha área por varios años, mi pasión es el idioma japonés y Japón 🇯🇵. Actualmente trabajo para una empresa de e-commerce llamada ZenMarket con base en tal país, dando soporte a los clientes hispanohablantes. También enseño español a extranjeros de manera part time. Siempre tuve interés en el código, así que aquí me encuentro dando lo mejor de mi mismo junto a estos grandes compañeros!
 
-Esteban Ferreccio: Soy Ingeniero Electromecánico 📈 , y mi camino profesional se desarrolló principalmente en el área de Compras, Abastecimiento y Logística. Durante este camino pude crecer como persona y como profestional, pero los últimos años empecé a sentir un deseo de reinventarme y empezar a construir un nuevo camino en la industria digital, y es por eso que decidí hacer este curso. y aquí estamos!!! Con la sensación de haber tomado el camino correcto, ya que me gusta mucho lo que venimos viendo y puedo ver todo el potencial 🚀 que tienen los conocimientos que estamos adquiriendo.
+Esteban Ferreccio: Soy Ingeniero Electromecánico, y mi camino profesional se desarrolló principalmente en el área de Compras, Abastecimiento y Logística. Durante este camino pude crecer como persona y como profestional, pero los últimos años empecé a sentir un deseo de reinventarme y empezar a construir un nuevo camino en la industria digital, y es por eso que decidí hacer este curso. y aquí estamos!!! Con la sensación de haber tomado el camino correcto, ya que me gusta mucho lo que venimos viendo y puedo ver todo el potencial que tienen los conocimientos que estamos adquiriendo.
 
 Francisco Rivero
 
 
-🎸🎻Referencia de sitios 🎹🎺
+Referencia de sitios
 
 1) Foxcomm: https://www.foxcommtech.com/arg/
 
