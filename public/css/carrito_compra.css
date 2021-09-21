@@ -139,6 +139,7 @@ tfoot {
   position: relative;
   left: 12.5%;
   top: 80px;
+  margin-bottom: 200px;
   width: 75%;
 }
 
@@ -180,7 +181,7 @@ tfoot {
   justify-content: space-between;
   position: relative;
   left: 12.5%;
-  top: 120px;
+  top: -80px;
 }
 
 body {
