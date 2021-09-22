@@ -1,3 +1,10 @@
+Enlace al tablero de trabajo solicitado para el Srpint 2:
+
+https://trello.com/b/9SMdDcaU/grupo-2
+
+
+-----Sprint 1-----
+
 Proyecto "Dr. Music"
 
 Nuestro proyecyo consiste en un sitio de ecommerce de instrumentos musicales y accesorios. Nuestro público objetivo apunta a aficionados y profesionales de la música. Creemos que este público es bastante heterogéneo en cuanto rango etareo, estilo y cultura, por lo cual una de las premisas de nuestra idea, es que nuestro sitio sea amigable, limpio en cuento a la visualización de los productos. 
