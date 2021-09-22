@@ -3,6 +3,9 @@ Enlace al tablero de trabajo solicitado para el Srpint 2:
 https://trello.com/b/9SMdDcaU/grupo-2
 
 
+
+
+
 -----Sprint 1-----
 
 Proyecto "Dr. Music"
