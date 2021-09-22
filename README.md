@@ -6,7 +6,8 @@ https://trello.com/b/9SMdDcaU/grupo-2
 
 
 
------Sprint 1-----
+
+-----Debajo se encuentran los entregables del Sprint 1-----
 
 Proyecto "Dr. Music"
 
