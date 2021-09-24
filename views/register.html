@@ -1,81 +1,117 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato&display=swap">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel='stylesheet' href='./css/style-register.css'>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lato&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="./css/style-register.css" />
     <title>Register - Dr Music</title>
-</head>
-<body>
-<!--INICIO DEL HEADER-->
-<header class="main-header">
-  <div class="main-header-top-bar">
-      <img class="logo" src="img/Dr-DF1304.png" alt="Dr Music">
-      <h2 class="copy-header"> <i class="fas fa-compact-disc"></i> Nos apasiona la música!</h2>
-  </div>
-  <a href="#" class="hamburguer-button">
-      <i class="fas fa-bars"></i>
-  </a>
-  <nav class="main-navbar">
-      <ul class="left-navbar">
+  </head>
+  <body>
+    <!--INICIO DEL HEADER-->
+    <header class="main-header">
+      <div class="main-header-top-bar">
+        <img class="logo" src="img/Dr-DF1304.png" alt="Dr Music" />
+        <h2 class="copy-header">
+          <i class="fas fa-compact-disc"></i> Nos apasiona la música!
+        </h2>
+      </div>
+      <a href="#" class="hamburguer-button">
+        <i class="fas fa-bars"></i>
+      </a>
+      <nav class="main-navbar">
+        <ul class="left-navbar">
           <li><a href="#">Guitarras/Bajos</a></li>
           <li><a href="#">Baterias</a></li>
           <li><a href="#">Teclados</a></li>
           <li><a href="#">Audio</a></li>
-      </ul>
+        </ul>
 
-      <ul class="right-navbar">
-          <li><a href="http://localhost:3000/register">Creá tu cuenta <i class="fas fa-credit-card"></i></a></li>
-          <li><a href="http://localhost:3000/login">Ingresá <i class="fas fa-sign-in-alt"></i></a></li>
-          <li><a href="http://localhost:3000/carrito">Mi Carrito <i class="fas fa-shopping-basket"></i></a></li>            
-      </ul>
-  </nav>
-
-</header>
-<!--FIN DEL HEADER-->
+        <ul class="right-navbar">
+          <li>
+            <a href="/register"
+              >Creá tu cuenta <i class="fas fa-credit-card"></i
+            ></a>
+          </li>
+          <li>
+            <a href="/login">Ingresá <i class="fas fa-sign-in-alt"></i></a>
+          </li>
+          <li>
+            <a href="/carrito"
+              >Mi Carrito <i class="fas fa-shopping-basket"></i
+            ></a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <!--FIN DEL HEADER-->
 
     <div class="logo-mediano">
-        <img class="mid-logo" src="img/Dr-F2EDE4.png" alt="our-logo"> 
+      <img class="mid-logo" src="img/Dr-F2EDE4.png" alt="our-logo" />
     </div>
     <div>
-        <p class="message-create">Create your account</p>
+      <p class="message-create">Create your account</p>
     </div>
 
     <form action="/log-in" method="POST" class="main-form">
-        <div class="complete-name">
-            <input type="text" name="name" placeholder="First Name" class="name">
-            <input type="text" name="last-name" placeholder="Last Name" class="last-name">
-        </div>
-        <div class="this">
-            <i class="fas fa-exclamation-triangle"></i>
-            <p>This cannot be blank</p>
-        </div>
-        <div>
-            <input type="email" name="email" placeholder="Email Address" class="mail">
-        </div>
-        <div>
-            <input type="password" name="password" placeholder="Password                   show" class="password">
-        </div>
-        <div class="create-account-buttom">
-            <button type="submit" name="create-account" class="create-account-tex">CREATE ACCOUNT</button>
-        </div>
+      <div class="complete-name">
+        <input type="text" name="name" placeholder="First Name" class="name" />
+        <input
+          type="text"
+          name="last-name"
+          placeholder="Last Name"
+          class="last-name"
+        />
+      </div>
+      <div class="this">
+        <i class="fas fa-exclamation-triangle"></i>
+        <p>This cannot be blank</p>
+      </div>
+      <div>
+        <input
+          type="email"
+          name="email"
+          placeholder="Email Address"
+          class="mail"
+        />
+      </div>
+      <div>
+        <input
+          type="password"
+          name="password"
+          placeholder="Password                   show"
+          class="password"
+        />
+      </div>
+      <div class="create-account-buttom">
+        <button type="submit" name="create-account" class="create-account-tex">
+          CREATE ACCOUNT
+        </button>
+      </div>
 
-        <div class="by">
-            <p class="by-low">By continuing, yoy agree to Dr. Music's</p>
-            <p class="by-low-red">Privacy Policy</p>
-            <p class="by-low">and</p>
-            <p class="by-low-red">Terms of use.</p>
-        </div>
-        <div class="already">
-            <p class="already-low">Already have a Dr. Music account</p>
-            <p class="already-low-red">Sign in</p>
-        </div>      
+      <div class="by">
+        <p class="by-low">By continuing, yoy agree to Dr. Music's</p>
+        <p class="by-low-red">Privacy Policy</p>
+        <p class="by-low">and</p>
+        <p class="by-low-red">Terms of use.</p>
+      </div>
+      <div class="already">
+        <p class="already-low">Already have a Dr. Music account</p>
+        <p class="already-low-red">Sign in</p>
+      </div>
     </form>
-
 
     <footer>
       <div class="footer-row">
@@ -118,8 +154,15 @@
           </li>
         </ul>
         <h6>© 2016-2021</h6>
-        <h6>Las fotos son a modo ilustrativo. La venta de cualquiera de los productos publicados está sujeta a la verificación de stock. Los precios online y los planes de financiación para los productos presentados/publicados son válidos exclusivamente para la compra vía internet en las páginas antes mencionadas.Las especificaciones técnicas y descripciones están sujetas a cambios sin previo aviso.</h6>
+        <h6>
+          Las fotos son a modo ilustrativo. La venta de cualquiera de los
+          productos publicados está sujeta a la verificación de stock. Los
+          precios online y los planes de financiación para los productos
+          presentados/publicados son válidos exclusivamente para la compra vía
+          internet en las páginas antes mencionadas.Las especificaciones
+          técnicas y descripciones están sujetas a cambios sin previo aviso.
+        </h6>
       </div>
     </footer>
-</body>
+  </body>
 </html>
