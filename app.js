@@ -1,25 +1,27 @@
-const express = require('express');
+const express = require("express");
 const app = express();
-const path = require('path')
-const publicPath = path.resolve(__dirname,'./public');
+const path = require("path");
+const publicPath = path.resolve(__dirname, "./public");
 
-const homeRouter = require('./routes/home');
-const loginRouter = require('./routes/login');
-const registerRouter = require('./routes/register');
-const carritoRouter = require('./routes/carrito');
-const descriptionRouter = require('./routes/description');
+const homeRouter = require("./routes/home");
+const loginRouter = require("./routes/login");
+const registerRouter = require("./routes/register");
+const carritoRouter = require("./routes/carrito");
+const descriptionRouter = require("./routes/description");
+const productListRouter = require("./routes/productList");
 
-app.use('/', homeRouter);
-app.use('/', loginRouter);
-app.use('/', registerRouter);
-app.use('/', carritoRouter);
-app.use('/', descriptionRouter);
+app.use("/", homeRouter);
+app.use("/", loginRouter);
+app.use("/", registerRouter);
+app.use("/", carritoRouter);
+app.use("/", descriptionRouter);
+app.use("/", productListRouter);
 
-app.listen(3000, function(){
-    console.log("Server 3000 running");
+app.listen(3000, function () {
+  console.log("Server 3000 running");
 });
 
 app.use(express.static(publicPath));
 
-app.set('view engine', 'ejs');
-app.set('views', path.join(__dirname, 'views'));
+app.set("view engine", "ejs");
+app.set("views", path.join(__dirname, "views"));
