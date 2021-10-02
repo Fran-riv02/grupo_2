@@ -4,27 +4,18 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
-    />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Lato&display=swap"
-    />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato&display=swap"/>
     <link rel="stylesheet" href="./css/style-home.css" />
     <title>Bienvenido a Dr Music</title>
   </head>
   <body>
+
     <!--INICIO DEL HEADER-->
-
     <%- include('./partials/header') %>
-
     <!--FIN DEL HEADER-->
+
     <main>
       <div class="banners">
         <img
@@ -81,52 +72,52 @@
             <article class="mas-vendido-1">
               <img
                 class="foto-mas-vendido-1"
-                src="img/mas-vendido-1.jpg"
+                src="<%= productos[0].foto %>"
                 alt="mas-vendido-1"
               />
               <div class="article-data">
-                <p class="precio">$240.000</p>
-                <p class="descuento">40% off</p>
+                <p class="precio"> <%= productos[0].precio %> </p>
+                <p class="descuento"> <%= productos[0].descuento %> </p>
               </div>
-              <h4 class="producto">Fender Stratocaster</h4>
+              <h4 class="producto"> <%= productos[0].nombre %> </h4>
             </article>
             <article class="mas-vendido-2">
               <img
                 class="foto-mas-vendido-2"
-                src="img/mas-vendido-2.jpg"
+                src="<%= productos[1].foto %>"
                 alt="mas-vendido-2"
               />
               <div class="article-data">
-                <p class="precio">$34.000</p>
-                <p class="descuento">10% off</p>
+                <p class="precio"> <%= productos[1].precio %> </p>
+                <p class="descuento"> <%= productos[1].descuento %> </p>
               </div>
-              <h4 class="producto">Yamaha C-40</h4>
+              <h4 class="producto"> <%= productos[1].nombre %> </h4>
             </article>
             <article class="mas-vendido-3">
               <img
                 class="foto-mas-vendido-3"
-                src="img/mas-vendido-3.jpg"
+                src="<%= productos[2].foto %>"
                 alt="mas-vendido-3"
               />
               <div class="article-data">
-                <p class="precio">$41.000</p>
-                <p class="descuento">30% off</p>
+                <p class="precio"> <%= productos[2].precio %> </p>
+                <p class="descuento"> <%= productos[2].descuento %> </p>
               </div>
-              <h4 class="producto">Amplificador Marshall MG30FX</h4>
+              <h4 class="producto"> <%= productos[2].nombre %> </h4>
             </article>
             <article class="mas-vendido-4">
               <a href="http://localhost:3000/description"
                 ><img
                   class="foto-mas-vendido-4"
-                  src="img/mas-vendido-4.jpg"
+                  src="<%= productos[3].foto %>"
                   alt="mas-vendido-4"
                 />
               </a>
               <div class="article-data">
-                <p class="precio">$410.000</p>
-                <p class="descuento">30% off</p>
+                <p class="precio"> <%= productos[3].precio %> </p>
+                <p class="descuento"> <%= productos[3].descuento %> </p>
               </div>
-              <h4 class="producto">Gibson Les Paul</h4>
+              <h4 class="producto"> <%= productos[3].nombre %> </h4>
             </article>
           </div>
         </div>
@@ -168,10 +159,8 @@
     </main>
 
     <!--INICIO DEL FOOTER-->
-
     <%- include('./partials/footer') %>
-
-
     <!--FIN DEL FOOTER-->
+    
   </body>
 </html>
