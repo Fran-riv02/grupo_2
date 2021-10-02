@@ -4,14 +4,22 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato&display=swap"/>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lato&display=swap"
+    />
     <link rel="stylesheet" href="./css/style-home.css" />
     <title>Bienvenido a Dr Music</title>
   </head>
   <body>
-
     <!--INICIO DEL HEADER-->
     <%- include('./partials/header') %>
     <!--FIN DEL HEADER-->
@@ -24,7 +32,7 @@
           alt="banner-inicial"
         />
         <p class="ir-tienda">
-          <a href="http://localhost:3000/tienda">Ir a la Tienda</a>
+          <a href="/productList">Ir a la Tienda</a>
         </p>
       </div>
 
@@ -76,10 +84,10 @@
                 alt="mas-vendido-1"
               />
               <div class="article-data">
-                <p class="precio"> <%= productos[0].precio %> </p>
-                <p class="descuento"> <%= productos[0].descuento %> </p>
+                <p class="precio"><%= productos[0].precio %></p>
+                <p class="descuento"><%= productos[0].descuento %></p>
               </div>
-              <h4 class="producto"> <%= productos[0].nombre %> </h4>
+              <h4 class="producto"><%= productos[0].nombre %></h4>
             </article>
             <article class="mas-vendido-2">
               <img
@@ -88,10 +96,10 @@
                 alt="mas-vendido-2"
               />
               <div class="article-data">
-                <p class="precio"> <%= productos[1].precio %> </p>
-                <p class="descuento"> <%= productos[1].descuento %> </p>
+                <p class="precio"><%= productos[1].precio %></p>
+                <p class="descuento"><%= productos[1].descuento %></p>
               </div>
-              <h4 class="producto"> <%= productos[1].nombre %> </h4>
+              <h4 class="producto"><%= productos[1].nombre %></h4>
             </article>
             <article class="mas-vendido-3">
               <img
@@ -100,10 +108,10 @@
                 alt="mas-vendido-3"
               />
               <div class="article-data">
-                <p class="precio"> <%= productos[2].precio %> </p>
-                <p class="descuento"> <%= productos[2].descuento %> </p>
+                <p class="precio"><%= productos[2].precio %></p>
+                <p class="descuento"><%= productos[2].descuento %></p>
               </div>
-              <h4 class="producto"> <%= productos[2].nombre %> </h4>
+              <h4 class="producto"><%= productos[2].nombre %></h4>
             </article>
             <article class="mas-vendido-4">
               <a href="http://localhost:3000/description"
@@ -114,10 +122,10 @@
                 />
               </a>
               <div class="article-data">
-                <p class="precio"> <%= productos[3].precio %> </p>
-                <p class="descuento"> <%= productos[3].descuento %> </p>
+                <p class="precio"><%= productos[3].precio %></p>
+                <p class="descuento"><%= productos[3].descuento %></p>
               </div>
-              <h4 class="producto"> <%= productos[3].nombre %> </h4>
+              <h4 class="producto"><%= productos[3].nombre %></h4>
             </article>
           </div>
         </div>
@@ -161,6 +169,5 @@
     <!--INICIO DEL FOOTER-->
     <%- include('./partials/footer') %>
     <!--FIN DEL FOOTER-->
-    
   </body>
 </html>
