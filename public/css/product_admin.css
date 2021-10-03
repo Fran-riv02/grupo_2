@@ -38,7 +38,7 @@ background-color: #F2EDE4;
 position: relative;
 height: 230px;
 /* background-image: url("/uploads/media/default/0001/02/3dd647f39593e88f45f61aaac6ff3027dce15506.jpeg");   */
-background-image: url("/public/img/administracion_productos.jpg");
+background-image: url("/img/administracion_productos.jpg");
 background-size: cover;
 display: flex;
 justify-content: center;
@@ -145,7 +145,7 @@ cursor: pointer;
 border-radius: 15px;
 }
 button:hover {
-box-shadow: 0 0 18px 0 #3d2914;
+box-shadow: 0 0 18px 0 #rgba(255, 255, 255, 0.8);
 }
 /* @media (min-width: 568px) {
 .name-item, .city-item {
@@ -165,24 +165,27 @@ width: calc(50% - 8px);
   display: grid;
   grid-template-columns: 20% 55% auto;
   grid-gap: 10px;
-  background-color: #2196F3;
-  padding: 10px;
+  background-color: #F2EDE4;;
+  /* background-color: rgba(255, 255, 255, 0.8); */
+  /* padding: 10px; */
   }
 
   .grid-container > div {
   background-color: rgba(255, 255, 255, 0.8);
   text-align: center;
-  padding: 20px 0;
+  /* padding: 20px 0; */
   font-size: 30px;
   }
 
   .column-3 {
   grid-row-end: span 3;
+  background-color: #F2EDE4;
   }
 
   .rows-3 {
   grid-column-start: 1;
   grid-column-end: 4;
+  background-color: #F2EDE4;
   }
   .multiple-items {
       display: flex;
