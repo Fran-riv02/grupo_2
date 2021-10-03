@@ -9,6 +9,8 @@ const registerRouter = require("./routes/register");
 const carritoRouter = require("./routes/carrito");
 const descriptionRouter = require("./routes/description");
 const productListRouter = require("./routes/productList");
+const adminRouter = require("./routes/admin"); //agregado bux 03/10
+
 
 app.use("/", homeRouter);
 app.use("/", loginRouter);
@@ -16,6 +18,7 @@ app.use("/", registerRouter);
 app.use("/", carritoRouter);
 app.use("/", descriptionRouter);
 app.use("/", productListRouter);
+app.use("/admin", adminRouter); //agregado bux 03/10
 
 app.listen(3000, function () {
   console.log("Server 3000 running");
