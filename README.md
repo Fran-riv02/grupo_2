@@ -22,8 +22,6 @@ Nicolas Enrique: Soy Lic. en Comercio Internacional y si bien trabajé en dicha 
 
 Esteban Ferreccio: Soy Ingeniero Electromecánico, y mi camino profesional se desarrolló principalmente en el área de Compras, Abastecimiento y Logística. Durante este camino pude crecer como persona y como profestional, pero los últimos años empecé a sentir un deseo de reinventarme y empezar a construir un nuevo camino en la industria digital, y es por eso que decidí hacer este curso. y aquí estamos!!! Con la sensación de haber tomado el camino correcto, ya que me gusta mucho lo que venimos viendo y puedo ver todo el potencial que tienen los conocimientos que estamos adquiriendo.
 
-Francisco Rivero: Soy estudiante de Sistemas, anteriormente en UBA, por horarios me pasé a UADE. Actualmente trabajo en Mercado Libre como integration engineer. Mi idea es seguir aprendiendo de lo que hago y de mis compañeros que tienen mucho para aportar en lo humano y en lo técnico.
-
 
 Referencia de sitios
 
