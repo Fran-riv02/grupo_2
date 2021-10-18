@@ -7,13 +7,8 @@ const controlMain = {
     mostrar: function(req,res){
         res.render('home',{productos});
     },
-    listarProductos: function(){},
     novedades: function(){},
     masVendidos: function(){},
 };
-
-
-
-
 
 module.exports = controlMain;

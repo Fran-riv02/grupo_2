@@ -77,3 +77,62 @@ body {
   text-align: center;
   margin-left: 5px;
 }
+@media (min-width: 769px) {
+  .full-logo {
+    width: 10%;
+  }
+  .message-sign-in {
+    font-size: 22px;
+  }
+  .mail,
+  .password {
+    font-size: 14px;
+  }
+  .sign-in-tex {
+    font-size: 18px;
+  }
+  .dont-have-low,
+  .dont-have-low-red {
+    font-size: 15px;
+  }
+  .mail,
+  .password,
+  .sign-in-buttom {
+    width: 500px;
+  }
+  .name,
+  .last-name {
+    width: 240px;
+  }
+}
+@media (min-width: 1280px) {
+  .full-logo {
+    width: 8%;
+  }
+  .message-sign-in {
+    font-size: 27px;
+  }
+  .mail,
+  .password {
+    font-size: 16px;
+  }
+  .sign-in-tex {
+    font-size: 21px;
+  }
+  .dont-have-low,
+  .dont-have-low-red{
+    font-size: 17px;
+  }
+  .mail,
+  .password,
+  .sign-in-buttom {
+    width: 600px;
+  }
+  .name,
+  .last-name {
+    width: 290px;
+  }
+  .mid-logo {
+    width: 8%;
+  }
+}

@@ -104,7 +104,7 @@ body {
     font-size: 22px;
   }
   .mail,
-  .password {
+  .password, .name, .last-name {
     font-size: 14px;
   }
   .create-account-tex {
@@ -134,7 +134,7 @@ body {
     font-size: 27px;
   }
   .mail,
-  .password {
+  .password,.name, .last-name {
     font-size: 16px;
   }
   .create-account-tex {
