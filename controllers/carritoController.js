@@ -2,8 +2,9 @@ const controlCarrito = {
     mostrar: function(req,res){
         res.render('carrito');        
     },
-    cargarProducto: function(){},
-    borrarProducto: function(){},
+    checkOut: function(){},
+    pago: function(){},
+    etc: function(){},
 };
 
 module.exports = controlCarrito;

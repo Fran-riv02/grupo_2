@@ -3,7 +3,7 @@ const fs = require('fs');
 let productosJson = fs.readFileSync("./public/js/productos.json", 'utf-8') ;
 let productos = JSON.parse(productosJson);
 
-const controlHome = {
+const controlMain = {
     mostrar: function(req,res){
         res.render('home',{productos});
     },
@@ -16,4 +16,4 @@ const controlHome = {
 
 
 
-module.exports = controlHome;
+module.exports = controlMain;

@@ -3,22 +3,16 @@ const app = express();
 const path = require("path");
 const publicPath = path.resolve(__dirname, "./public");
 
-const homeRouter = require("./routes/home");
-const loginRouter = require("./routes/login");
-const registerRouter = require("./routes/register");
+const mainRouter = require("./routes/main");
+const usersRouter = require("./routes/users");
+const productsRouter = require("./routes/products");
 const carritoRouter = require("./routes/carrito");
-const descriptionRouter = require("./routes/description");
-const productListRouter = require("./routes/productList");
-const adminRouter = require("./routes/admin");
 
+app.use("/", mainRouter);
+app.use("/users", usersRouter);
+app.use("/products", productsRouter);
+app.use("/carrito", carritoRouter);
 
-app.use("/", homeRouter);
-app.use("/", loginRouter);
-app.use("/", registerRouter);
-app.use("/", carritoRouter);
-app.use("/", descriptionRouter);
-app.use("/", productListRouter);
-app.use("/", adminRouter);
 
 app.listen(3000, function () {
   console.log("Server 3000 running");
