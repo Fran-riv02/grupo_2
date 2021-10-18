@@ -23,6 +23,15 @@ body {
   text-align: center;
   font-size: 20px;
 }
+.link {
+  text-decoration: none;
+  color: #f2ede4;
+}
+.ir-tienda:hover {
+  transition: 450ms;
+  background-color: #ce5b50;
+}
+
 .ir-tienda a {
   color: #f2ede4;
   text-decoration: none;
